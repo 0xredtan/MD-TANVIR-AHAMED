@@ -77,7 +77,7 @@ Exploring Ethical Hacking, Bug Bounty, and AI-Powered Tools
 ## 🌐 Connect With Me
 
 [Facebook](https://www.facebook.com/TanvirLuxe)
-[LinkedIn](www.linkedin.com/in/md-tanvir-ahamed-2aa110318)
+[LinkedIn](https://www.linkedin.com/in/md-tanvir-ahamed-2aa110318)
 [TryHackMe](https://tryhackme.com/p/tanvir54030)
 
 ---
